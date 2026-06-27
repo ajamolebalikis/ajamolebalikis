@@ -1,7 +1,7 @@
 ## Balikis Ajamole
 **Data Analyst** specializing in Business Intelligence, SQL, and automated reporting systems.
 
-I help businesses turn raw, multi-source data into clear, decision-ready insights. Currently working across e-commerce, fintech, logistics, and travel data as a Data Analyst at **Konga Group**, where I design automated Power BI dashboards used by executive and cross-functional teams.
+I help businesses turn raw, multi-source data into clear, decision-ready insights. I write complex SQL queries for data extraction and transformation, and design automated Power BI dashboards used by executive and cross-functional teams across e-commerce, fintech, logistics, and travel sectors.
 
 **Core Stack:** SQL (MySQL, SQL Server, PostgreSQL) · Power BI (DAX, Power Query) · Python (Pandas, NumPy, Matplotlib) · Excel
 
